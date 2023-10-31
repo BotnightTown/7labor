@@ -28,5 +28,6 @@ int main()
 	float rez;
 	rez = Sum(a, b);
 	cout << setw(10) << setprecision(3) << "Y= " << rez << endl;
+	// 123123
 
 }
