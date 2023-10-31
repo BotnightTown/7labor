@@ -29,5 +29,5 @@ int main()
 	rez = Sum(a, b);
 	cout << setw(10) << setprecision(3) << "Y= " << rez << endl;
 	// 123123
-
+	// zmina do lab
 }
